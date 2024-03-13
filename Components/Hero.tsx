@@ -22,9 +22,7 @@ const Hero = () => {
                 width={30}
                 height={30}
               />
-              <p className="font-extrabold text-sm mt-2">
-                24/7 Emergency Service
-              </p>
+              <p className="font-bold text-sm mt-2">24/7 Emergency Service</p>
             </div>
             <div className="flex items-center gap-2">
               <Image
@@ -33,7 +31,7 @@ const Hero = () => {
                 width={30}
                 height={30}
               />
-              <p className="font-extrabold text-sm mt-2">
+              <p className="font-bold text-sm mt-2">
                 45 Minute On-site Guarantee
               </p>
             </div>
@@ -44,7 +42,7 @@ const Hero = () => {
                 width={30}
                 height={30}
               />
-              <p className="font-extrabold text-sm mt-2">
+              <p className="font-bold text-sm mt-2">
                 Work directly with your insurance Company
               </p>
             </div>
